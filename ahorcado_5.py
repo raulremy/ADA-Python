@@ -82,5 +82,5 @@ if vidas == 0:
     print(f"La palabra era: {palabra_al_azar}")
 
 if cant_correctas == len(palabra_al_azar):
-    ordenar_diccionario(dict_correcto)
+    #ordenar_diccionario(dict_correcto)
     print("Ganaste!")
